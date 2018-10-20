@@ -6,7 +6,7 @@
   "bin": {
     "akcli": "./bin/run"
   },
-  "bugs": "https://github.com/ak-cli/akcli/issues",
+  "bugs": "https://github.com/sebastiangelotte/akcli/issues",
   "dependencies": {
     "@oclif/command": "^1.5.4",
     "@oclif/config": "^1.8.8",
@@ -30,7 +30,7 @@
     "/oclif.manifest.json",
     "/src"
   ],
-  "homepage": "https://github.com/ak-cli/akcli",
+  "homepage": "https://github.com/sebastiangelotte/akcli",
   "keywords": [
     "oclif"
   ],
@@ -43,7 +43,7 @@
       "@oclif/plugin-help"
     ]
   },
-  "repository": "ak-cli/akcli",
+  "repository": "sebastiangelotte/akcli",
   "scripts": {
     "postpack": "rimraf oclif.manifest.json",
     "posttest": "eslint .",
