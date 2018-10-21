@@ -4,9 +4,9 @@ akcli
 CLI for aggressive-koala
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/akcli.svg)](https://npmjs.org/package/akcli)
-[![Downloads/week](https://img.shields.io/npm/dw/akcli.svg)](https://npmjs.org/package/akcli)
-[![License](https://img.shields.io/npm/l/akcli.svg)](https://github.com/ak-cli/akcli/blob/master/package.json)
+[![Version](https://img.shields.io/npm/v/akcli.svg)](https://www.npmjs.com/package/@sebastian.gelotte/akcli)
+[![Downloads/week](https://img.shields.io/npm/dw/akcli.svg)](https://www.npmjs.com/package/@sebastian.gelotte/akcli)
+[![License](https://img.shields.io/npm/l/akcli.svg)](https://github.com/sebastiangelotte/akcli/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
@@ -19,7 +19,7 @@ $ npm install -g @sebastian.gelotte/akcli
 $ akcli COMMAND
 running command...
 $ akcli (-v|--version|version)
-@sebastian.gelotte/akcli/0.0.2 win32-x64 node-v9.5.0
+@sebastian.gelotte/akcli/0.0.3 win32-x64 node-v9.5.0
 $ akcli --help [COMMAND]
 USAGE
   $ akcli COMMAND
@@ -50,7 +50,7 @@ DESCRIPTION
   Path is hardcoded to 'src/components/01-atoms/'
 ```
 
-_See code: [src\commands\atom.js](https://github.com/ak-cli/akcli/blob/v0.0.2/src\commands\atom.js)_
+_See code: [src\commands\atom.js](https://github.com/sebastiangelotte/akcli/blob/v0.0.3/src\commands\atom.js)_
 
 ## `akcli help [COMMAND]`
 
@@ -84,7 +84,7 @@ DESCRIPTION
   Path is hardcoded to 'src/components/02-molecules/'
 ```
 
-_See code: [src\commands\molecule.js](https://github.com/ak-cli/akcli/blob/v0.0.2/src\commands\molecule.js)_
+_See code: [src\commands\molecule.js](https://github.com/sebastiangelotte/akcli/blob/v0.0.3/src\commands\molecule.js)_
 
 ## `akcli organism`
 
@@ -101,7 +101,7 @@ DESCRIPTION
   Path is hardcoded to 'src/components/03-organisms/'
 ```
 
-_See code: [src\commands\organism.js](https://github.com/ak-cli/akcli/blob/v0.0.2/src\commands\organism.js)_
+_See code: [src\commands\organism.js](https://github.com/sebastiangelotte/akcli/blob/v0.0.3/src\commands\organism.js)_
 
 ## `akcli page`
 
@@ -115,7 +115,7 @@ DESCRIPTION
   ...
 ```
 
-_See code: [src\commands\page.js](https://github.com/ak-cli/akcli/blob/v0.0.2/src\commands\page.js)_
+_See code: [src\commands\page.js](https://github.com/sebastiangelotte/akcli/blob/v0.0.3/src\commands\page.js)_
 
 ## `akcli template`
 
@@ -129,5 +129,5 @@ DESCRIPTION
   ...
 ```
 
-_See code: [src\commands\template.js](https://github.com/ak-cli/akcli/blob/v0.0.2/src\commands\template.js)_
+_See code: [src\commands\template.js](https://github.com/sebastiangelotte/akcli/blob/v0.0.3/src\commands\template.js)_
 <!-- commandsstop -->
