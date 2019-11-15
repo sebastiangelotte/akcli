@@ -1,7 +1,7 @@
 {
   "name": "@sebastian.gelotte/akcli",
   "description": "CLI for aggressive-koala",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Sebastian Gelotte",
   "bin": {
     "akcli": "./bin/run"
